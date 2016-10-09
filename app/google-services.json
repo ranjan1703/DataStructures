@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "880254504377",
+    "firebase_url": "https://datastructures-48acc.firebaseio.com",
+    "project_id": "datastructures-48acc",
+    "storage_bucket": "datastructures-48acc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880254504377:android:cd3fbe2857965fee",
+        "android_client_info": {
+          "package_name": "com.silverfox.avi.datastructures"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880254504377-bmhpo8ra30vk005bbcmusbq10i1g84r5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNf1DloC2xluPPASDiJidB9Kxo8YmQ-eM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
